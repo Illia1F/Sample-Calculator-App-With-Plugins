@@ -12,3 +12,17 @@ C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debu
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.pdb
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.genruntimeconfig.cache
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\ref\MultiplyActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\bin\Debug\net6.0\MultiplyActionPlugin.deps.json
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\bin\Debug\net6.0\MultiplyActionPlugin.runtimeconfig.json
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\bin\Debug\net6.0\MultiplyActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\bin\Debug\net6.0\MultiplyActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.AssemblyInfoInputs.cache
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.AssemblyInfo.cs
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\refint\MultiplyActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\MultiplyActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\MultiplyActionPlugin\obj\Debug\net6.0\ref\MultiplyActionPlugin.dll

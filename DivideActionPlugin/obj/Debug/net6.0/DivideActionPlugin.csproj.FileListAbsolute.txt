@@ -12,3 +12,17 @@ C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.pdb
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.genruntimeconfig.cache
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\ref\DivideActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.deps.json
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.runtimeconfig.json
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.AssemblyInfoInputs.cache
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.AssemblyInfo.cs
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\refint\DivideActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\ref\DivideActionPlugin.dll

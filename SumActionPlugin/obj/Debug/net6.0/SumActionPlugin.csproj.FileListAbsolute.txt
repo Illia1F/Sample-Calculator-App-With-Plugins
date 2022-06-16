@@ -12,3 +12,17 @@ C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\ref\SumActionPlugin.dll
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SumActionPlugin\bin\Debug\net6.0\SumActionPlugin.runtimeconfig.json
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\bin\Debug\net6.0\SumActionPlugin.deps.json
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\bin\Debug\net6.0\SumActionPlugin.runtimeconfig.json
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\bin\Debug\net6.0\SumActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\bin\Debug\net6.0\SumActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.AssemblyInfoInputs.cache
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.AssemblyInfo.cs
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\refint\SumActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\SumActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\SumActionPlugin\obj\Debug\net6.0\ref\SumActionPlugin.dll

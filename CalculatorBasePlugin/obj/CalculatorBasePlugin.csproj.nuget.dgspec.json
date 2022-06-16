@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj": {}
+    "D:\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj": {
+    "D:\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj",
+        "projectUniqueName": "D:\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj",
         "projectName": "CalculatorBasePlugin",
-        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj",
+        "projectPath": "D:\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\CalculatorBasePlugin.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\obj\\",
+        "outputPath": "D:\\GitHub\\CalculatorWithPlugins\\CalculatorBasePlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

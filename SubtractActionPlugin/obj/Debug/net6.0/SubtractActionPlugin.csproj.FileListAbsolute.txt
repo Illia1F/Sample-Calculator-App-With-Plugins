@@ -12,3 +12,17 @@ C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debu
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\ref\SubtractActionPlugin.dll
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SubtractActionPlugin\bin\Debug\net6.0\SubtractActionPlugin.runtimeconfig.json
 C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\bin\Debug\net6.0\SubtractActionPlugin.deps.json
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\bin\Debug\net6.0\SubtractActionPlugin.runtimeconfig.json
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\bin\Debug\net6.0\SubtractActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\bin\Debug\net6.0\SubtractActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.AssemblyInfoInputs.cache
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.AssemblyInfo.cs
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\refint\SubtractActionPlugin.dll
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.pdb
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\SubtractActionPlugin.genruntimeconfig.cache
+D:\GitHub\CalculatorWithPlugins\SubtractActionPlugin\obj\Debug\net6.0\ref\SubtractActionPlugin.dll
