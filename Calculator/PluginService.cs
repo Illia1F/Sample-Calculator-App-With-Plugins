@@ -2,25 +2,20 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 
 namespace Calculator
 {
     public class PluginService : IPluginService
     {
+        public bool PluginExists(string relativePath)
+        {
+            return File.Exists(GetLocation(relativePath));
+        }
+
         public Assembly LoadPlugin(string relativePath)
         {
-            // Navigate up to the solution root
-            string root = Path.GetFullPath(Path.Combine(
-                Path.GetDirectoryName(
-                    path: Path.GetDirectoryName(
-                        path: Path.GetDirectoryName(
-                            path: Path.GetDirectoryName(
-                                path: Path.GetDirectoryName(typeof(Program).Assembly.Location)))))));
-
-            string pluginLocation = Path.GetFullPath(Path.Combine(root, relativePath.Replace('\\', Path.DirectorySeparatorChar)));
-            Console.WriteLine($"Loading commands from: {pluginLocation}");
+            string pluginLocation = GetLocation(relativePath);
             PluginLoadContext loadContext = new PluginLoadContext(pluginLocation);
             return loadContext.LoadFromAssemblyName(AssemblyName.GetAssemblyName(pluginLocation));
         }
@@ -39,6 +34,19 @@ namespace Calculator
                     }
                 }
             }
+        }
+
+        private string GetLocation(string relativePath)
+        {
+            // Navigate up to the solution root
+            string root = Path.GetFullPath(Path.Combine(
+                Path.GetDirectoryName(
+                    path: Path.GetDirectoryName(
+                        path: Path.GetDirectoryName(
+                            path: Path.GetDirectoryName(
+                                path: Path.GetDirectoryName(typeof(Program).Assembly.Location)))))));
+
+            return Path.GetFullPath(Path.Combine(root, relativePath.Replace('\\', Path.DirectorySeparatorChar)));
         }
     }
 }

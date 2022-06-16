@@ -2,6 +2,7 @@ using CalculatorBasePlugin;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
@@ -45,11 +46,13 @@ namespace Calculator
 
         private void InitializeGroupActionButtons()
         {
-            IEnumerable<ICalculatorAction> actions = pluginPaths.SelectMany(pluginPath =>
-            {
-                Assembly pluginAssembly = _pluginService.LoadPlugin(pluginPath);
-                return _pluginService.CreateActions(pluginAssembly);
-            });
+            IEnumerable<ICalculatorAction> actions = pluginPaths
+                .Where(pluginPath => _pluginService.PluginExists(pluginPath))
+                .SelectMany(pluginPath =>
+                {
+                    Assembly pluginAssembly = _pluginService.LoadPlugin(pluginPath);
+                    return _pluginService.CreateActions(pluginAssembly);
+                });
 
             foreach (ICalculatorAction action in actions)
             {
