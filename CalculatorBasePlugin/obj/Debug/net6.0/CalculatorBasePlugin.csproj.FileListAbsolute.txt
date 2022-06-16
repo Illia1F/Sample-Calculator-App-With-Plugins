@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\bin\Debug\net6.0\CalculatorBasePlugin.deps.json
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\bin\Debug\net6.0\CalculatorBasePlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\bin\Debug\net6.0\CalculatorBasePlugin.pdb
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\refint\CalculatorBasePlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\CalculatorBasePlugin.pdb
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\CalculatorBasePlugin\obj\Debug\net6.0\ref\CalculatorBasePlugin.dll

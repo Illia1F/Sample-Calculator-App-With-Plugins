@@ -1,0 +1,26 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DivideActionPlugin/1.0.0": {
+        "dependencies": {
+          "CalculatorBasePlugin": "1.0.0"
+        },
+        "runtime": {
+          "DivideActionPlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivideActionPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.deps.json
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\bin\Debug\net6.0\DivideActionPlugin.pdb
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\refint\DivideActionPlugin.dll
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.pdb
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\DivideActionPlugin.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\CalculatorWithPlugins\DivideActionPlugin\obj\Debug\net6.0\ref\DivideActionPlugin.dll
